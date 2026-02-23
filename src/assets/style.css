@@ -3,3 +3,8 @@
 :root{
   --color: red
 }
+
+h1{
+    color: var(--color);
+    font-size: 5rem;
+}
